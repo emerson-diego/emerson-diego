@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm an AI Software Engineer passionate about progr
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **[projeto atual ou área de foco]**
-- 🌱 Learning: **[ferramentas/tecnologias que você está aprendendo]**
-- 👯 Open to collaborate on: **[tipos de projetos ou áreas específicas]**
-- 🤔 Seeking help with: **[algo que você gostaria de aprender ou melhorar]**
-- ⚡ Fun fact: **[algo interessante sobre você]**
+- 🔭 Currently working on: Developing applications that leverage artificial intelligence to solve real-world problems and enhance decision-making processes.
+- 🌱 Learning: Python, Machine Learning, Airflow, and improving my English proficiency to reach C1 level.
+- 👯 Open to collaborate on: Backend development using Spring Boot and AI and data science projects.
+- ⚡ Fun fact: I'm a big fan of running.
 
 ## 💻 Tech Stack
 
